@@ -1,7 +1,0 @@
-#+TITLE: Readme for ASPRILO website
-#+AUTHOR: Philipp Obermeier
-
-* About
-
-  This is source tree of the ASPRILO website.
-
