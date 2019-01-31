@@ -1,6 +1,18 @@
 title: asprilo
 theme: minima
 
+header_pages:
+  - checker.md
+  - generator.md
+  - visualizer.md
+  - specification.md
+  - experiments.md
+
+plugins:
+  - jekyll-relative-links
+
+permalink: pretty
+
 # plugins:
 #   - jekyll-paginate
 #   - jekyll-sitemap
