@@ -14,6 +14,12 @@ plugins:
 
 permalink: pretty
 
+# URL of asprilo source code repo on github.com
+asprilo_src_url: "https://github.com/potassco/asprilo/tree/develop"
+
+# URL of asprilo gh-pages website on github.io
+asprilo_web_url: "https://asprilo.github.io"
+
 # Custom URLs for Uni Potsdam webspace
 uniurl: "https://www.cs.uni-potsdam.de/wv"
 resourceurl: "https://www.cs.uni-potsdam.de/wv/projects"
