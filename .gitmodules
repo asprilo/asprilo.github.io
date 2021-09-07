@@ -1,0 +1,4 @@
+[submodule "suite"]
+	path = suite
+	url = https://github.com/potassco/asprilo.git
+	branch = develop
